@@ -8,6 +8,7 @@ class Program
     	Console.WriteLine("TEST CODE");
 	Console.WriteLine("Change through different branch");
 	WriteLine("Another change");
+	WriteLine("Yet another change");
 	Console.ReadLine();
     }
 }	

@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-	WriteLine("Hey! I'm using git!");
+	WriteLine("New thing");
 	Readkey(true);
     }
 }
